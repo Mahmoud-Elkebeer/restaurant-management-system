@@ -3,11 +3,11 @@
 
 Mahmoud Reda, Software Engineer with +6 years experience:
 
-- [Linked In](linkedin.com/in/mahmoud-reda-90784b129).
+- [Linked In](https://www.linkedin.com/in/mahmoud-reda-90784b129/).
 
 ## Overview
 
-Restaurant management system application. It allows users to place orders for food, update ingredients stock and notify the merchants.
+Restaurant management system application, That allows users to place an orders for food, update the ingredients stock and notify the merchants before the ingredients run out.
 
 ## Technologies
 
@@ -26,7 +26,7 @@ Restaurant management system application. It allows users to place orders for fo
 > Download Project
 
 ``` bash
-git@github.com:Mahmoud-Elkebeer/restaurant-management-system.git
+git clone git@github.com:Mahmoud-Elkebeer/restaurant-management-system.git
 ```
 
 > Install Composer Packages
