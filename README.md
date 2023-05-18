@@ -55,3 +55,11 @@ php artisan key:generate
 ``` bash
 php artisan serve
 ```
+
+## API Endpoints
+
+The following API endpoints are available in the application:
+
+| Method | URL | Response |
+| ------ | --- | -------- |
+| POST   | /api/orders             | Create a new order     
